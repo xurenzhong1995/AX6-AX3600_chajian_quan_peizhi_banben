@@ -25,7 +25,9 @@ git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-a
 #添加额外非必须软件包
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
-git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilte
+git clone https://github.com/jerrykuku/lua-maxminddb.git
+git clone https://github.com/jerrykuku/luci-app-vssr.git
 #添加smartdns
 git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
